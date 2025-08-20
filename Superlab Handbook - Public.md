@@ -15,7 +15,7 @@ Poster reads: In this lab, we believe SCIENCE is real, BRAINS are cool, DIVERSIT
 
 #  **Contents**
 
-[Lab code of conduct	3](#lab-code-of-conduct)
+[Lab code of conduct	3]<a name="#lab-code-of-conduct"></a>
 
 [Research (mis)conduct	3](#research-\(mis\)conduct)
 
