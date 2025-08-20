@@ -99,7 +99,7 @@ It's always a good idea to keep your co-authors informed about the progress of r
 
 This is \*really\* important\! Nobody likes their name being used without permission, and nobody likes finding out that their name is on something that they didn't approve of (especially when they wanted to approve it). **As a rule of thumb, before you submit any research product, always chat with Reshanne about whether it needs commenting from her and/or other co-authors before submission.**
 
-## **Old projects and shared ownership of ideas**(#old-projects-and-shared-ownership-of-ideas)
+## [**Old projects and shared ownership of ideas**](#old-projects-and-shared-ownership-of-ideas)
 
 When people abandon projects that are subsequently re-opened, or when people come up with ideas during their time in the Superlab, but don't carry those ideas to fruition until after they've left the lab, there is some inherent ambiguity about how to deal with authorship and collaboration.
 
