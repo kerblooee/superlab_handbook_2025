@@ -15,7 +15,7 @@ Poster reads: In this lab, we believe SCIENCE is real, BRAINS are cool, DIVERSIT
 
 #  **Contents**
 
-[Lab code of conduct	3] <a name="#lab-code-of-conduct"></a>
+[Lab code of conduct	3](#lab-code-of-conduct)
 
 [Research (mis)conduct	3](#research-\(mis\)conduct)
 
@@ -69,7 +69,7 @@ Poster reads: In this lab, we believe SCIENCE is real, BRAINS are cool, DIVERSIT
 
 # 
 
-# **Lab code of conduct**  {#lab-code-of-conduct}
+# **Lab code of conduct**{#lab-code-of-conduct}
 
 Everyone in the lab is expected to show integrity, accountability, and respect in all interactions and projects while upholding strong standards of scientific rigor and collaboration. This means things like listening to and valuing each other’s perspectives, being on time for meetings, and staying engaged during presentations. We are all responsible for creating an inclusive, supportive environment—one that is free from discrimination or harmful behavior, especially related to gender, race, sexuality, or disability. Lab members should feel comfortable sharing their ideas, concerns, or feedback without fear of negative consequences. Psychological safety is a shared priority.  
    
