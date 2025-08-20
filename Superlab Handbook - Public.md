@@ -6,8 +6,6 @@
 
  
 
-**![A group of symbols and textAI-generated content may be incorrect.][image1]**
-
 Poster reads: In this lab, we believe SCIENCE is real, BRAINS are cool, DIVERSITY fuels innovation, RESEARCH is global, LOVE is love, IMMIGRANTS are welcome, TRANS RIGHTS are human rights, FEMINISM is for everyone. Design adapted from [Sammy Katta](https://www.sammykatta.com/diversity).
 
 ![][image2]
