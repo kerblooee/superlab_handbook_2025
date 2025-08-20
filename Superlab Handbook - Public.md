@@ -17,7 +17,7 @@ Poster reads: In this lab, we believe SCIENCE is real, BRAINS are cool, DIVERSIT
 
 [Lab code of conduct	3](#lab-code-of-conduct)
 
-[Research (mis)conduct	3](#research-\(mis\)conduct)
+[Research (mis)conduct	3](#research-conduct)
 
 [Open Science	3](#open-science)
 
@@ -59,7 +59,7 @@ Poster reads: In this lab, we believe SCIENCE is real, BRAINS are cool, DIVERSIT
 
 [Reshanne’s quirks	15](#reshanne’s-quirks)
 
-[Addressing (inter)personal issues	16](#addressing-\(inter\)personal-issues)
+[Addressing (inter)personal issues	16](#addressing-issues)
 
 [Mental health and wellbeing	16](#mental-health-and-wellbeing)
 
@@ -75,7 +75,7 @@ Everyone in the lab is expected to show integrity, accountability, and respect i
    
 We are trying to build a team that runs on self-motivation, curiosity, and a shared drive to do great science. I want people to feel excited about what they are working on and comfortable taking initiative. I am here to support, guide, and help clear the path when needed—but I also trust everyone to take ownership of their work and grow into their strengths.
 
-## **Research (mis)conduct**(#research-(mis)conduct)
+## **Research (mis)conduct**(#research-conduct)
 
 We will not tolerate any form of research misconduct: fabrication, falsification, plagiarism, or failure to comply with journal policies on data, materials, and code sharing. For more information on the policies governing research integrity and (mis)conduct, please see the University of Liverpool’s policy [here](https://www.liverpool.ac.uk/research/research-environment/research-integrity/).
 
@@ -324,7 +324,7 @@ Ever since starting work in the UK, I have been inundated with a gazillion email
 
  
 
-# **Addressing (inter)personal issues**(#addressing-(inter)personal-issues)
+# **Addressing (inter)personal issues**(#addressing-issues)
 
 ## **Mental health and wellbeing**(#mental-health-and-wellbeing)
 
