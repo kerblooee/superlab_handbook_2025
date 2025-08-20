@@ -4,7 +4,8 @@
 
 **PI: Dr Reshanne Reeder**
 
- 
+ <img width="960" height="540" alt="we-believe" src="https://github.com/user-attachments/assets/33377f0b-cad1-426f-8116-449a6db21ee5" />
+
 
 Poster reads: In this lab, we believe SCIENCE is real, BRAINS are cool, DIVERSITY fuels innovation, RESEARCH is global, LOVE is love, IMMIGRANTS are welcome, TRANS RIGHTS are human rights, FEMINISM is for everyone. Design adapted from [Sammy Katta](https://www.sammykatta.com/diversity).
 
