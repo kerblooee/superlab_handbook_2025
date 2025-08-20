@@ -23,7 +23,7 @@ Poster reads: In this lab, we believe SCIENCE is real, BRAINS are cool, DIVERSIT
 
 [Reproducibility	3](#reproducibility)
 
-[Notifying co-authors of research products (posters, papers, etc.)	4](#notifying-co-authors-of-research-products-\(posters,-papers,-etc.\))
+[Notifying co-authors of research products (posters, papers, etc.)	4](#notifying-co-authors-of-research-products)
 
 [Old projects and shared ownership of ideas	4](#old-projects-and-shared-ownership-of-ideas)
 
@@ -75,31 +75,31 @@ Everyone in the lab is expected to show integrity, accountability, and respect i
    
 We are trying to build a team that runs on self-motivation, curiosity, and a shared drive to do great science. I want people to feel excited about what they are working on and comfortable taking initiative. I am here to support, guide, and help clear the path when needed—but I also trust everyone to take ownership of their work and grow into their strengths.
 
-## **Research (mis)conduct** {#research-(mis)conduct}
+## **Research (mis)conduct**(#research-(mis)conduct)
 
 We will not tolerate any form of research misconduct: fabrication, falsification, plagiarism, or failure to comply with journal policies on data, materials, and code sharing. For more information on the policies governing research integrity and (mis)conduct, please see the University of Liverpool’s policy [here](https://www.liverpool.ac.uk/research/research-environment/research-integrity/).
 
 If you ever feel pressured to succeed, such that engaging in research misconduct even *remotely* seems like a good idea, please contact Reshanne immediately to discuss how to remedy this.
 
-## **Open Science** {#open-science}
+## **Open Science**(#open-science)
 
 Our policy on open science is simple: we share all data, materials, and code upon posting a preprint or publishing a paper, whenever possible. Sometimes there are circumstances where we cannot do this (e.g., we do not own the data, so we are legally obligated to keep it private). Because of this, **you must have explicit permission from Reshanne to post data, materials, or code publicly.**
 
 Generally, we post preprints of articles at the same time that we submit them to journals (such as on [*PsyArXiv*](https://osf.io/preprints/psyarxiv)), and post our materials, data, and code on [OSF](https://www.osf.io).
 
-## **Reproducibility** {#reproducibility}
+## **Reproducibility**(#reproducibility)
 
 If you gave someone else your raw data, they should be able to reproduce your results exactly. This is critical, because if they can’t reproduce your results, it suggests that one (or both) of you has made errors in the analysis, and the results can’t be trusted. Reproducible research is an essential part of science, and an expectation for all projects in the lab. For results to be reproducible, the analysis pipeline must be organized and well documented.
 
 To meet these goals, you must document all aspects of your analysis pipeline. This means writing down how you did things every step of the way (and the order that you did things), from any pre-processing of the data, to running models, to statistical tests (including in analysis scripts, which should always be commented clearly so that every step is understandable by an outsider). If you are running your analyses in JASP, make sure to re-label standard headings of analyses (e.g., ‘Repeated Measures ANOVA’ could be relabeled to ‘Vividness of immediate recall: repeated-measures ANOVA’), give outputs a sensible title, e.g., ‘Immediate\_recall\_analyses’, and save them all in the same ‘results’ folder.
 
-## **Notifying co-authors of research products (posters, papers, etc.)** {#notifying-co-authors-of-research-products-(posters,-papers,-etc.)}
+## **Notifying co-authors of research products (posters, papers, etc.)**(#notifying-co-authors-of-research-products)
 
 It's always a good idea to keep your co-authors informed about the progress of research — it's just a nice thing to do. Most of the time, you should be working with co-authors directly *before* a paper, poster, or other product is preprinted, submitted, revised, or published.
 
 This is \*really\* important\! Nobody likes their name being used without permission, and nobody likes finding out that their name is on something that they didn't approve of (especially when they wanted to approve it). **As a rule of thumb, before you submit any research product, always chat with Reshanne about whether it needs commenting from her and/or other co-authors before submission.**
 
-## **Old projects and shared ownership of ideas** {#old-projects-and-shared-ownership-of-ideas}
+## **Old projects and shared ownership of ideas**(#old-projects-and-shared-ownership-of-ideas)
 
 When people abandon projects that are subsequently re-opened, or when people come up with ideas during their time in the Superlab, but don't carry those ideas to fruition until after they've left the lab, there is some inherent ambiguity about how to deal with authorship and collaboration.
 
@@ -108,7 +108,7 @@ Here are a few general guidelines about these situations:
 - If someone takes on a project but subsequently hands it off to someone else, they will usually also give first authorship to that person, but can stay on the paper as a middle author (if they want to).  
 - If someone comes up with an idea for a research project while working in the lab and that idea benefits from lab resources, discussions with labmates and with Reshanne, etc, these constitute *bona fide* contributions to research. That means they must invite Reshanne and anyone else who contributed to collaborate on the project. Remember that ideas are the lifeblood of science: if someone contributed to the development of your idea, then you are ethically obligated to give that person credit when your idea comes to fruition (in many cases, this means authorship).
 
-# **The common lab language** {#the-common-lab-language}
+# **The common lab language**(#the-common-lab-language)
 
 The primary language of the lab is English. All professional conversations, both oral and written, during work activities must be conducted in English. This includes presentations, discussions at lab meetings, scientific outputs, and email communications.   
    
@@ -117,7 +117,7 @@ Outside of professional meetings, the lab promotes inclusive communication. Verb
 **AI policy:**  
 You are discouraged from using large language models (LLMs) such as ChatGPT in your writing, including proofreading and refining language, summarizing research in literature reviews, and generating reference lists. LLMs “hallucinate” (fabricate) information and there are embarrassing precedents that we must not emulate in our own publications.
 
-# **Tips for starting out** {#tips-for-starting-out}
+# **Tips for starting out**(#tips-for-starting-out)
 
 1. Be comfortable making and admitting mistakes. It is all part of the learning process\! But if you hide mistakes, I cannot help you.  
      
@@ -137,7 +137,7 @@ You are discouraged from using large language models (LLMs) such as ChatGPT in y
      
 9. If you want to start any collaborations or invite a speaker to give a talk in a lab meeting, let me know *before* you reach out to them\! I may already have a history with them and can advise you on how best to proceed.
 
-# **My promise as PI** {#my-promise-as-pi}
+# **My promise as PI**(#my-promise-as-pi)
 
 Reshanne promises to…
 
@@ -155,7 +155,7 @@ Reshanne promises to…
   
 
 
-# **Expectations as a PhD student** {#expectations-as-a-phd-student}
+# **Expectations as a PhD student**(#expectations-as-a-phd-student)
 
 As a PhD student, you are expected to…
 
@@ -181,7 +181,7 @@ As a PhD student, you are expected to…
     
 * Prioritize time for research. Side projects and teaching are important, but ultimately your research gets you your PhD and prepares you for the next stage of your career
 
-# **Working hours, remote working, and leave** {#working-hours,-remote-working,-and-leave}
+# **Working hours, remote working, and leave**(#working-hours,-remote-working,-and-leave)
 
 *Working hours*  
 I am happy for lab members to keep flexible, hybrid working hours. If I am your primary supervisor, you should generally be reachable by email or Teams between **10am and 4pm** on working days. If you need an alternative work plan, I am happy to work something out with you, but please discuss it with me first.
@@ -200,7 +200,7 @@ If you’re sick, stay home and take care of yourself. Because you need it, and 
 *Long-term leave*  
 If you need to take long-term leave (e.g., maternity/paternity, illness, or compassionate leave), please see the University of Liverpool’s [Work/life balance and family friendly working policy](https://www.liverpool.ac.uk/working/whyworkhere/familyfriendly/). For ESRC-specific long-term leave policies, please see the [NWSSDTP Student Handbook 2024-25](https://nwssdtp.ac.uk/wp-content/uploads/2024/09/nwssdtp-student-handbook-2024-25.pdf).
 
-# **Regular meetings and expectation of participation** {#regular-meetings-and-expectation-of-participation}
+# **Regular meetings and expectation of participation**(#regular-meetings-and-expectation-of-participation)
 
 *Lab meetings*  
 Discussing scientific progress is essential for academic success. I expect all lab members to actively participate in our scheduled lab meetings. These meetings serve as a platform to present work-in-progress, to engage in discussions about research, and to explore general topics around research practice. It is also a useful way for lab members to stay informed about, and learn from, each others’ work, and to share achievements and challenges together.
@@ -214,7 +214,7 @@ Full supervisory meetings (including secondary supervisors) are held **monthly**
 
 For all supervision meetings, please send an agenda ahead of each meeting, and a summary of what was discussed following each meeting. Please upload these to your dedicated PhD Teams channel, and send copies by email to supervisors who do not have access to Teams.
 
-# **Authorship policy** {#authorship-policy}
+# **Authorship policy**(#authorship-policy)
 
 According to the criteria recommended by the International Committee of Medical Journal Editors (ICMJE), to qualify for authorship, individuals must meet all the following conditions:
 
@@ -234,7 +234,7 @@ Familiarize yourself with the [Contributor Role Taxonomy (CRediT)](https://credi
 
 The Superlab is committed to mentoring and recognizing the contributions of students and trainees. When students make substantial contributions to a project, they will be offered authorship and mentorship on writing and publishing.
 
-# **Publication goals** {#publication-goals}
+# **Publication goals**(#publication-goals)
 
    
 Every researcher position in the lab comes with its own set of experimental challenges and funding issues. As a result, it is impossible to predict the outcome of any project, and I cannot guarantee specific timelines or publication dates, as these also depend significantly on your contributions.  
@@ -245,11 +245,11 @@ While advancing your own project is important, I also expect you to contribute t
    
 I and the first author(s) of the manuscript will discuss the journal to which the manuscript will be submitted.
 
-## **Open Access Journals** {#open-access-journals}
+## **Open Access Journals**(#open-access-journals)
 
 Journals that are covered in the University of Liverpool Open Access policy can be found by [clicking here](https://livrepository.liverpool.ac.uk/publishers.html). When deciding where to publish your work, it is a good idea to check whether the journal is on this list, which means bypassing Article Processing Charges (APCs), and publishing open access (so the article will be free to read for everyone, i.e., not behind a paywall).
 
-## **Predatory journals** {#predatory-journals}
+## **Predatory journals**(#predatory-journals)
 
 [Click here](https://beallslist.net/how-to-recognize-predatory-journals/) for information on how to recognize predatory journals.
 
@@ -257,7 +257,7 @@ Sometimes it's not so obvious if a publisher is predatory (usually gold open acc
 
 Lots of information is found "through the grapevine" that comes from first-hand experience \- so it is important to talk to colleagues and be open about experiences with journals.
 
-# **Conference and course attendance policy** {#conference-and-course-attendance-policy}
+# **Conference and course attendance policy**(#conference-and-course-attendance-policy)
 
 Conferences, workshops, and other training opportunities (e.g. summer schools) are valuable resources for dissemination, acquiring new expertise, networking, and career development. Lab members are encouraged to attend at least one regional or international conference per year.
 
@@ -269,7 +269,7 @@ As a general rule, conference attendance requires submission of an abstract. All
 
 Here is a list of relevant annual conferences and meetings that lab members have shown an interest in. Feel free to browse & add to this list.
 
-## **Preparing for conference presentations** {#preparing-for-conference-presentations}
+## **Preparing for conference presentations**(#preparing-for-conference-presentations)
 
 * Poster drafts and practice talks should be presented to the lab at least **two weeks** before the conference.  
 * Posters should be printed **one week** before the conference.  
@@ -277,7 +277,7 @@ Here is a list of relevant annual conferences and meetings that lab members have
 
 [https://www.liverpool.ac.uk/it/printing/specialised-printing/](https://www.liverpool.ac.uk/it/printing/specialised-printing/)
 
-## **Public engagement and outreach** {#public-engagement-and-outreach}
+## **Public engagement and outreach**(#public-engagement-and-outreach)
 
 Informed societies are stronger and healthier. The lab supports participation in public engagement and outreach events, such as presenting at the *Aphantasia Network* annual meeting, Pint of Science / Scibar, Meet a Scientist, British Science Festival, etc. If you would like to share part of your work with the general public, please discuss it with Reshanne first.
 
@@ -285,13 +285,13 @@ Here are some links to our current and previous non-academic project partners:
 
 \[redacted\]
 
-# **Managing collaborations** {#managing-collaborations}
+# **Managing collaborations**(#managing-collaborations)
 
 When participating in a research collaboration, think of yourself as a lab representative, and that your behavior reflects on our reputation. Hence, it is especially important that you think through your work before sharing it with collaborators. 
 
 You need to ‘cc’ me and the other group leader on all the communication about the collaborative projects, no matter how big or small. Of course, discussion on sample transfer or equipment booking can be skipped, but everything involving experiment planning, troubleshooting, data analysis needs to have group leaders in ‘cc’.
 
-## **Current collaborators** {#current-collaborators}
+## **Current collaborators**(#current-collaborators)
 
 \[redacted\]
 
@@ -300,7 +300,7 @@ Former collaborators &/or no longer working in science:
 
 # 
 
-# **Reshanne’s quirks** {#reshanne’s-quirks}
+# **Reshanne’s quirks**(#reshanne’s-quirks)
 
 *Project communication*
 
@@ -324,9 +324,9 @@ Ever since starting work in the UK, I have been inundated with a gazillion email
 
  
 
-# **Addressing (inter)personal issues** {#addressing-(inter)personal-issues}
+# **Addressing (inter)personal issues**(#addressing-(inter)personal-issues)
 
-## **Mental health and wellbeing** {#mental-health-and-wellbeing}
+## **Mental health and wellbeing**(#mental-health-and-wellbeing)
 
 Mental well-being is crucial for personal and professional success, especially given the prevalence of mental health challenges in academia ([https://doi.org/10.1038/nbt.4089](https://doi.org/10.1038/nbt.4089)). High productivity doesn’t equate to overwork and burnout. Lab members are encouraged to manage their productivity responsibly. If you feel comfortable, I encourage you to discuss any personal challenges that may affect your work during our 1-on-1 meetings. If you need additional support:
 
@@ -335,7 +335,7 @@ Mental well-being is crucial for personal and professional success, especially g
 
 ## 
 
-## **Interpersonal conflicts** {#interpersonal-conflicts}
+## **Interpersonal conflicts**(#interpersonal-conflicts)
 
 If you are comfortable doing so, please raise the issue with me during our 1-to-1 meetings. I encourage you to bring the problem up as early as possible to ensure we can resolve this in a timely manner. If you don’t feel like you can bring it up with me, you can informally:  
 \-speak with one of your co-supervisors  
@@ -348,7 +348,7 @@ Or contact one of the following Student Services:
 [Equality & Diversity Team](https://www.liverpool.ac.uk/hr/diversityandequality/) (part of the Human Resources Department)   
 [Student Experience Team](https://www.liverpool.ac.uk/population-health/about/psychology/welcome/seo/)
 
-## **Bullying and harassment** {#bullying-and-harassment}
+## **Bullying and harassment**(#bullying-and-harassment)
 
 Bullying and harassment are entirely unacceptable behavior in any work environment. Please be familiar with the University of Liverpool [Bullying and Harassment Policy](https://www.liverpool.ac.uk/media/intranet/humanresources/content/headers/policies/Bullying,and,Harassment,Policy,\(2022\),v1.docx), including steps staff and students can take if they wish to formally or informally report, or receive confidential advice about, any concerning behavior that they have witnessed or been subjected to.
 
